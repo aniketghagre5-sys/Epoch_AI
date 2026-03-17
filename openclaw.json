@@ -1,7 +1,7 @@
 {
   "default_agent": "baby-pink",
   "channels": ["webchat", "telegram", "discord", "whatsapp"],
-  "skills": ["web-search", "browser-control"],
+  "skills": ["web-search"],
   "providers": {
     "huggingface": {
       "model_id": "NamanX01/Epoch-Digital-Child"
