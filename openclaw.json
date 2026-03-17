@@ -1,0 +1,9 @@
+{
+  "default_agent": "baby-pink",
+  "channels": ["webchat", "telegram", "discord", "whatsapp"],
+  "skills": ["web-search", "browser-control"],
+  "providers": {
+    "huggingface": { "model_id": "YOUR_HF_USERNAME/MODEL_NAME" }
+  }
+}
+
