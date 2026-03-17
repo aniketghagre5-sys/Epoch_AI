@@ -8,6 +8,6 @@
     }
   },
   "web_search": {
-    "engine": "brave"
+    "provider": "serper"
   }
 }
