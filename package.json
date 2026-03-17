@@ -1,0 +1,7 @@
+{
+  "name": "epoch-ai",
+  "version": "1.0.0",
+  "scripts": { "start": "openclaw gateway --port $PORT" },
+  "dependencies": { "openclaw": "latest" }
+}
+
