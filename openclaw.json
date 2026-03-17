@@ -3,7 +3,11 @@
   "channels": ["webchat", "telegram", "discord", "whatsapp"],
   "skills": ["web-search", "browser-control"],
   "providers": {
-    "huggingface": { "model_id": "YOUR_HF_USERNAME/MODEL_NAME" }
+    "huggingface": {
+      "model_id": "NamanX01/Epoch-Digital-Child"
+    }
+  },
+  "web_search": {
+    "engine": "brave"
   }
 }
-
